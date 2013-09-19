@@ -4,3 +4,5 @@ This is the first application for [*Ruby on Rails Tutorial: Learn Rails by Examp
 This is my test modification
 
 Test modification 2.
+
+My test words for git
